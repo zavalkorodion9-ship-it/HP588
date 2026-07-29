@@ -11,7 +11,13 @@ Arduino library for the HP5883 / QMC5883P 3-axis magnetometer.
 - AVR
 - PlatformIO
 - Arduino IDE
-
+- 
+## Installation
+Option 1 — Download ZIP
+Open the GitHub repository.
+Click Code → Download ZIP.
+In Arduino IDE, select Sketch → Include Library → Add .ZIP Library....
+Choose the downloaded HP5883.zip file.
 ## Example
 
 ```cpp
