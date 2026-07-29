@@ -1,4 +1,4 @@
-# HP5883
+# HP5883 library
 
 Arduino library for the HP5883 / QMC5883P 3-axis magnetometer.
 
