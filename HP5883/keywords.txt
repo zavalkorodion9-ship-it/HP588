@@ -1,0 +1,11 @@
+HP5883          KEYWORD1
+
+begin           KEYWORD2
+update          KEYWORD2
+
+getX            KEYWORD2
+getY            KEYWORD2
+getZ            KEYWORD2
+
+heading         KEYWORD2
+calibrate       KEYWORD2
